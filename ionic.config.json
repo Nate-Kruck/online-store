@@ -1,0 +1,8 @@
+{
+  "name": "Online Store",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "99b66ae6"
+}
